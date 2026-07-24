@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi there, I'm Mahyar 👋
 
-<!--
-**MahyarDev01/MahyarDev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer from Azerbaijan
 
-Here are some ideas to get you started:
+I'm passionate about software development, Linux, backend technologies, databases, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been exploring programming since I was 13 years old and enjoy building practical applications, learning how systems work under the hood, and continuously improving my technical skills.
+
+---
+
+## 🚀 Currently Learning
+
+* Django
+* Artificial Intelligence
+* Machine Learning
+* Backend Architecture
+
+---
+
+## 🛠️ Technologies & Tools
+
+**Languages**
+
+* Python
+* HTML
+* CSS
+* SQL
+
+**Databases**
+
+* PostgreSQL
+
+**Tools**
+
+* Linux
+* Git
+* GitHub
+
+**Libraries**
+
+* NumPy
+* Requests
+* PyQt
+* Tkinter
+
+---
+
+## 🎯 Goals
+
+* Build useful software
+* Improve backend development skills
+* Learn modern AI technologies
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: @MahyarDev01
+
+---
+
+> "Never stop learning."
