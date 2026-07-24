@@ -1,63 +1,67 @@
-# Hi there, I'm Mahyar 👋
+<h1 align="center">Hi 👋, I'm Mahyar Mobasheri</h1>
 
-### Software Developer from Azerbaijan
+<h3 align="center">
+Software Developer • Python Enthusiast • Linux User
+</h3>
 
-I'm passionate about software development, Linux, backend technologies, databases, and artificial intelligence.
-
-I've been exploring programming since I was 13 years old and enjoy building practical applications, learning how systems work under the hood, and continuously improving my technical skills.
-
----
-
-## 🚀 Currently Learning
-
-* Django
-* Artificial Intelligence
-* Machine Learning
-* Backend Architecture
+<p align="center">
+Passionate about software development, backend technologies, Linux, databases and artificial intelligence.
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
 
-**Languages**
-
-* Python
-* HTML
-* CSS
-* SQL
-
-**Databases**
-
-* PostgreSQL
-
-**Tools**
-
-* Linux
-* Git
-* GitHub
-
-**Libraries**
-
-* NumPy
-* Requests
-* PyQt
-* Tkinter
+- 💻 Programming since age 13
+- 🐍 Python Developer
+- 🐧 Linux Enthusiast
+- 🗄️ PostgreSQL User
+- 🌱 Currently learning Django & AI
+- 📚 Always learning new technologies
 
 ---
 
-## 🎯 Goals
+## 🛠️ Tech Stack
 
-* Build useful software
-* Improve backend development skills
-* Learn modern AI technologies
-* Contribute to open-source projects
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Libraries
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-Python-blue?style=for-the-badge)
+![PyQt](https://img.shields.io/badge/PyQt-GUI-green?style=for-the-badge)
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Focus
 
-* GitHub: @MahyarDev01
+- Django Development
+- Artificial Intelligence
+- Backend Engineering
+- Open Source
 
 ---
 
-> "Never stop learning."
+## 📈 GitHub Journey
+
+Building projects, learning technologies, and improving every day.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
